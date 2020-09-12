@@ -1,0 +1,20 @@
+uuid: 8a97d6eb-fa02-4723-a292-0f5d8e249864
+langcode: en
+status: true
+dependencies:
+  theme:
+    - vegandj
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: vegandj_local_actions
+theme: vegandj
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

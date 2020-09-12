@@ -1,0 +1,22 @@
+uuid: 949a91db-1017-4c0e-8bba-c154a260567e
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - vegandj
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: vegandj_help
+theme: vegandj
+region: content
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }
