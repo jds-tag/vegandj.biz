@@ -1,12 +1,12 @@
 {
     "uid": [
         {
-            "value": 1
+            "value": 0
         }
     ],
     "uuid": [
         {
-            "value": "7fc9ce19-bca5-44b4-9acd-3e0b80bb4c8e"
+            "value": "45c77e3b-793a-4b83-97e4-b5e44c0ae214"
         }
     ],
     "langcode": [
@@ -22,33 +22,29 @@
     "preferred_admin_langcode": [],
     "name": [
         {
-            "value": "admin"
+            "value": ""
         }
     ],
-    "mail": [
-        {
-            "value": "admin@example.com"
-        }
-    ],
+    "mail": [],
     "timezone": [
         {
-            "value": "UTC"
+            "value": ""
         }
     ],
     "status": [
         {
-            "value": true
+            "value": false
         }
     ],
     "created": [
         {
-            "value": "2020-09-12T21:40:26+00:00",
+            "value": "2020-09-12T21:43:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2020-09-12T21:40:26+00:00",
+            "value": "2020-09-12T21:43:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -57,5 +53,6 @@
         {
             "value": true
         }
-    ]
+    ],
+    "user_picture": []
 }
