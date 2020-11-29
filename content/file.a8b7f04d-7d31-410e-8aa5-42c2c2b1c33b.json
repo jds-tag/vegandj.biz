@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "a8b7f04d-7d31-410e-8aa5-42c2c2b1c33b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2e455f63-af0a-4e95-8824-10760ad35b4f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "grand-format-boombox.jpeg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2020-11\/grand-format-boombox.jpeg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 5820829
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-11-29T23:34:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-11-29T23:34:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

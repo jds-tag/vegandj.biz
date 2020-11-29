@@ -1,7 +1,2 @@
-body {
-  font-family: 'Roboto', sans-serif;
-}
-
-img {
-  max-width: 100%;
-}
+@import 'elements.css';
+@import 'typography.css';

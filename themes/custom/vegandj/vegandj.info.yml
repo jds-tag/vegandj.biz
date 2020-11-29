@@ -6,7 +6,7 @@ libraries:
   - vegandj/global-styling
   - vegandj/global-scripts
 ckeditor_stylesheets:
-  - dist/css/styles.css
+  - dist/css/styles.min.css
 base theme: classy
 regions:
   header: Header
