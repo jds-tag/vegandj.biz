@@ -1,0 +1,13 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      dist/css/styles.min.css: {}
+      //fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap: { type: external }
+
+global-scripts:
+  js:
+    dist/js/app.js: {}
+  dependencies:
+    - core/drupal
+    - core/drupal.debounce
