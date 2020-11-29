@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "d89468f5-f76e-4a84-b9fb-4d6a3f3a9b99"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "fc2ac8d6-f21f-4d44-b3e4-c1d92f57cf2f"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-09-12T23:41:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2e455f63-af0a-4e95-8824-10760ad35b4f"
+        }
+    ],
+    "name": [
+        {
+            "value": "grand-format-portrait.jpeg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Portrait of Grand Format next to a sound board.",
+            "title": null,
+            "width": 2851,
+            "height": 2691,
+            "target_type": "file",
+            "target_uuid": "cf4c52eb-c506-4a6e-bb4a-2c8da0caaef2"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-09-12T23:41:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-09-12T23:41:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Portrait of Grand Format next to a sound board.",
+            "title": "",
+            "width": 2851,
+            "height": 2691,
+            "target_type": "file",
+            "target_uuid": "cf4c52eb-c506-4a6e-bb4a-2c8da0caaef2"
+        }
+    ]
+}

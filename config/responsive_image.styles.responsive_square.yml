@@ -1,0 +1,27 @@
+uuid: 6b83bb4a-919e-44a2-943e-56518096a1ff
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.1024x1024
+    - image.style.768x768
+    - image.style.large
+    - image.style.max_1300x1300
+    - image.style.max_2600x2600
+id: responsive_square
+label: 'Responsive Square'
+image_style_mappings:
+  -
+    breakpoint_id: responsive_image.viewport_sizing
+    multiplier: 1x
+    image_mapping_type: sizes
+    image_mapping:
+      sizes: '(min-width: 1024px) 1024px, 100vw'
+      sizes_image_styles:
+        - 1024x1024
+        - 768x768
+        - large
+        - max_1300x1300
+        - max_2600x2600
+breakpoint_group: responsive_image
+fallback_image_style: large

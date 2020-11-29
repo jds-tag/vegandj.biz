@@ -1,0 +1,10 @@
+uuid: 96a3152d-b75a-46d3-a261-d10f669d4d68
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.responsi
+label: 'Responsive Square'
+targetEntityType: media
+cache: true

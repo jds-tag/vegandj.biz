@@ -1,0 +1,15 @@
+uuid: ebe7a95e-9112-40f6-8446-c86b791b8946
+langcode: en
+status: true
+dependencies: {  }
+name: 1024x1024
+label: 1024x1024
+effects:
+  518fa135-5ede-4d95-8d39-472ef90aed96:
+    uuid: 518fa135-5ede-4d95-8d39-472ef90aed96
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1024
+      height: 1024
+      anchor: center-center

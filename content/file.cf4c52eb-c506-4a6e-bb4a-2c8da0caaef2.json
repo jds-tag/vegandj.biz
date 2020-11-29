@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "cf4c52eb-c506-4a6e-bb4a-2c8da0caaef2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2e455f63-af0a-4e95-8824-10760ad35b4f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "grand-format-portrait.jpeg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2020-09\/grand-format-portrait.jpeg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 5766645
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-09-12T23:41:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-09-12T23:41:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

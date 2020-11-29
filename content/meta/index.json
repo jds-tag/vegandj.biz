@@ -8,5 +8,12 @@
     ],
     "path_alias.6c503fc4-0d15-419e-ae47-d717f4f18f64": [
         "node.99b8e0ad-ae14-48a8-9cbd-b01d0652a31c"
+    ],
+    "file.cf4c52eb-c506-4a6e-bb4a-2c8da0caaef2": [
+        "user.2e455f63-af0a-4e95-8824-10760ad35b4f"
+    ],
+    "media.d89468f5-f76e-4a84-b9fb-4d6a3f3a9b99": [
+        "user.2e455f63-af0a-4e95-8824-10760ad35b4f",
+        "file.cf4c52eb-c506-4a6e-bb4a-2c8da0caaef2"
     ]
 }

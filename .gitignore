@@ -3,3 +3,6 @@
 /html
 /drush
 .idea
+development.settings.yml
+node_modules
+.DS_Store

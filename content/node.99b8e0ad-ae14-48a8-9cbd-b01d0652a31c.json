@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2020-09-12T21:48:18+00:00",
+            "value": "2020-10-12T16:08:39+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2020-09-12T21:48:18+00:00",
+            "value": "2020-10-12T16:08:39+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,12 +72,22 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
     "path": [
         {
             "alias": "\/home",
             "langcode": "en"
         }
     ],
-    "body": []
+    "body": [
+        {
+            "value": "<h2>Hi, I'm Grand Format!<\/h2>\r\n\r\n<div class=\"intro columns\">\r\n<div class=\"column\">\r\n<drupal-media data-entity-type=\"media\" data-entity-uuid=\"d89468f5-f76e-4a84-b9fb-4d6a3f3a9b99\" data-view-mode=\"responsi\"><\/drupal-media>\r\n<\/div>\r\n\r\n<div class=\"column\">\r\n<p>I am a vegan DJ living in the Hudson Valley, NY. Ready to spin real vinyl at your wedding, bar mitzvah, family reunion, venue, whatever! The only \"killing\" that will happen is your friends and family killing it on the dance floor!<\/p>\r\n<\/div>\r\n<\/div>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
 }
