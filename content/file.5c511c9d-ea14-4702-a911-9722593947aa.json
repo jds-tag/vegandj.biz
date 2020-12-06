@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "5c511c9d-ea14-4702-a911-9722593947aa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2e455f63-af0a-4e95-8824-10760ad35b4f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "grand-format-icon.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "temporary:\/\/grand-format-icon.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 2723
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-12-06T22:13:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-12-06T22:13:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
