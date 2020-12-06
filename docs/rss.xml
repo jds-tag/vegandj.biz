@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://jds-tag.github.io/vegandj.biz/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://default/">
   <channel>
     <title>Grand Format | vegandj.biz</title>
-    <link>https://jds-tag.github.io/vegandj.biz/</link>
+    <link>http://default/</link>
     <description/>
     <language>en</language>
     
