@@ -9,14 +9,26 @@
 .intro .splash h2 {
   font-size: 6vw;
   margin: 0;
-  letter-spacing: 4px;
+  letter-spacing: 2px;
+}
+
+@media screen and (min-width: 768px) {
+  .intro .splash h2 {
+    letter-spacing: 4px;
+  }
 }
 
 .intro .splash .credit {
-  padding-top: 20px;
+  padding-top: 60px;
   font-style: italic;
   font-size: 12px;
   text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .intro .splash .credit {
+    padding-top: 20px;
+  }
 }
 
 .intro .splash .credit a {
@@ -44,9 +56,15 @@
 .intro .intro--txt {
   background: #3d6073;
   color: #fff;
-  font-size: 2.5vw;
+  font-size: 18px;
   line-height: 1.6;
   letter-spacing: 1px;
+}
+
+@media screen and (min-width: 768px) {
+  .intro .intro--txt {
+    font-size: 2.5vw;
+  }
 }
 
 .intro .intro--txt p {
