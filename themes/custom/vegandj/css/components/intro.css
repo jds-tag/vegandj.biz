@@ -3,7 +3,7 @@
   flex-direction: column;
   align-items: center;
   padding: 60px 0;
-  background: #7be0ad;
+  background: center / cover no-repeat url('../../../mountains.svg');
 }
 
 .intro .splash h2 {
@@ -13,21 +13,89 @@
 }
 
 .intro .splash .credit {
+  padding-top: 20px;
   font-style: italic;
   font-size: 12px;
+  text-align: center;
 }
 
 .intro .splash .credit a {
-  color: #734;
+  display: block;
+  margin: 0 0 10px;
+  color: #fff;
+}
+
+.intro .splash .credit .turntable-pen {
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  .intro .splash .credit .turntable-pen {
+    display: block;
+  }
+}
+
+.intro .intro--txt,
+.intro .experience--txt {
+  display: flex;
+  align-items: center;
 }
 
 .intro .intro--txt {
-  display: flex;
-  align-items: center;
-  padding: 60px;
-  background: #29335c;
+  background: #3d6073;
   color: #fff;
   font-size: 2.5vw;
   line-height: 1.6;
   letter-spacing: 1px;
+}
+
+.intro .intro--txt p {
+  padding: 30px 60px;
+}
+
+@media screen and (min-width: 768px) {
+  .intro .intro--txt p {
+    padding: 0 60px;
+  }
+}
+
+.intro .experience--txt {
+  background: rgba(123, 224, 173, 0.5);
+  flex-direction: column;
+  padding: 60px 0;
+  font-size: 18px;
+}
+
+.intro .experience--txt .experience--intro {
+  padding: 0 60px;
+  line-height: 1.4;
+}
+
+.intro .experience--txt ul {
+  padding: 0 80px;
+}
+
+.intro .experience--txt ul li {
+  margin: 0 0 36px;
+}
+
+.intro .experience div:first-child {
+  order: 2;
+}
+
+@media screen and (min-width: 768px) {
+  .intro .experience div:first-child {
+    order: -1;
+  }
+}
+
+.contact {
+  display: flex;
+}
+
+.contact iframe {
+  width: 100%;
+  height: 800px;
+  padding: 60px 0 0;
+  background: rgba(123, 224, 173, 0.5);
 }

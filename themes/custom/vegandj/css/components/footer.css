@@ -1,0 +1,21 @@
+.region-footer {
+  background: #3d6073;
+  color: #fff;
+}
+
+.region-footer .field--name-body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.region-footer .field--name-body .social {
+  display: flex;
+  margin: 0 0 0 16px;
+}
+
+.region-footer .field--name-body .social img {
+  width: 32px;
+  height: 32px;
+  margin: 0 8px;
+}

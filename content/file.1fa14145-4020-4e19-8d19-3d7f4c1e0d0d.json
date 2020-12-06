@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "1fa14145-4020-4e19-8d19-3d7f4c1e0d0d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2e455f63-af0a-4e95-8824-10760ad35b4f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "spotify-logo.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2020-12\/spotify-logo.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 72672
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-12-06T19:45:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-12-06T19:45:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

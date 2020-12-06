@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "721cc077-412d-4357-a2bc-06727047a95b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "fc2ac8d6-f21f-4d44-b3e4-c1d92f57cf2f"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-12-06T19:45:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2e455f63-af0a-4e95-8824-10760ad35b4f"
+        }
+    ],
+    "name": [
+        {
+            "value": "spotify-logo.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Spotify icon",
+            "title": null,
+            "width": 894,
+            "height": 894,
+            "target_type": "file",
+            "target_uuid": "1fa14145-4020-4e19-8d19-3d7f4c1e0d0d"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-12-06T19:45:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-12-06T19:45:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Spotify icon",
+            "title": "",
+            "width": 894,
+            "height": 894,
+            "target_type": "file",
+            "target_uuid": "1fa14145-4020-4e19-8d19-3d7f4c1e0d0d"
+        }
+    ]
+}

@@ -2,10 +2,17 @@
    But cleaned up a bit */
 
 .turntable {
-  position: relative;
-  width: 660px;
-  height: 350px;
-  margin: 80px 0 0;
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  .turntable {
+    display: block;
+    position: relative;
+    margin: 80px 0 0;
+    width: 660px;
+    height: 350px;
+  }
 }
 
 .turntable .disk {
