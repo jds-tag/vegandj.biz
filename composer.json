@@ -25,7 +25,8 @@
         "drush/drush": "^9.0.0",
         "drupal/tome": "^1.0",
         "drupal-tome/tome_drush": "dev-master",
-        "drupal/admin_toolbar": "^2.3"
+        "drupal/admin_toolbar": "^2.3",
+        "drupal/simple_sitemap": "^3.8"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",
