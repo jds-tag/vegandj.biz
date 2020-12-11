@@ -37,16 +37,6 @@
   color: #fff;
 }
 
-.intro .splash .credit .turntable-pen {
-  display: none;
-}
-
-@media screen and (min-width: 768px) {
-  .intro .splash .credit .turntable-pen {
-    display: block;
-  }
-}
-
 .intro .intro--txt,
 .intro .experience--txt {
   display: flex;
