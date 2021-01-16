@@ -36,7 +36,7 @@
     ],
     "changed": [
         {
-            "value": "2020-12-06T22:05:27+00:00",
+            "value": "2021-01-16T15:15:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -57,7 +57,7 @@
     ],
     "body": [
         {
-            "value": "<p>Copyright 2020 Grand Format<\/p>\r\n\r\n<div class=\"social\"><a href=\"https:\/\/www.instagram.com\/grandformat\" target=\"_blank\">\r\n<drupal-media data-align=\"center\" data-entity-type=\"media\" data-entity-uuid=\"2f417abe-11b3-4d37-b2dd-3a1cecf35aab\"><\/drupal-media>\r\n<\/a><a href=\"https:\/\/open.spotify.com\/user\/jamesdavidsaul?si=uiIRsHCXQ7qB8K9P3zQyRA\" target=\"_blank\">\r\n<drupal-media data-align=\"center\" data-entity-type=\"media\" data-entity-uuid=\"721cc077-412d-4357-a2bc-06727047a95b\"><\/drupal-media>\r\n<\/a><\/div>\r\n",
+            "value": "<p>Copyright 2021&nbsp;Grand Format<\/p>\r\n\r\n<div class=\"social\"><a href=\"https:\/\/www.instagram.com\/grandformat\" target=\"_blank\">\r\n<drupal-media data-align=\"center\" data-entity-type=\"media\" data-entity-uuid=\"2f417abe-11b3-4d37-b2dd-3a1cecf35aab\"><\/drupal-media>\r\n<\/a><a href=\"https:\/\/open.spotify.com\/user\/jamesdavidsaul?si=uiIRsHCXQ7qB8K9P3zQyRA\" target=\"_blank\">\r\n<drupal-media data-align=\"center\" data-entity-type=\"media\" data-entity-uuid=\"721cc077-412d-4357-a2bc-06727047a95b\"><\/drupal-media>\r\n<\/a><\/div>\r\n",
             "format": "full_html",
             "summary": ""
         }
